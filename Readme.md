@@ -1,11 +1,11 @@
 # java-ChessArtificialIntelligencePlayer
 Implemented with Java, this program plays chess. The chess-playing algorithm utilizes MiniMax and Alpha Beta Pruning as well as a Transposition Table. 
 
-- The alpha beta pruning algorithm is found in ABPruning.java
+- The alpha beta pruning algorithm is found in src/chai/ABPruning.java
 
-- The MiniMax algorithm is found in MiniMaxAI.java
+- The MiniMax algorithm is found in src/chai/MiniMaxAI.java
 
-- The transtable can be found in transtableminimax.java
+- The transtable can be found in src/chai/transtableminimax.java
 
 - The rest of the code was provided by the professor. 
 
